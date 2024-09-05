@@ -1,0 +1,140 @@
+body{
+    font-size: 26px;
+}
+img{
+    display: block;
+    padding-top: 150px ;
+    margin:auto;
+    height: 300px;
+    width: 500px;
+}
+.cs0{
+    display: block;
+    height: auto;
+    width: 180px;
+    padding-top: 5px;
+}
+.forma{
+    padding-top: 15px;
+    margin:auto;
+    height: auto;
+    width: 400px;
+    color: #cfcfcf;
+    border-color:#cfcfcf ;
+}
+span{
+    color: #4487f6;
+    font: 23px / 16px Arial, sans-serif;
+    position:relative;
+    Left: 1050px;
+    top: -30px;
+    
+}
+.PS1{
+    display: block;
+    border-radius: 24px;
+    margin:6px -100px;
+    min-height: 44px;
+    width:640px;
+    
+
+}
+
+.PS2{
+    font-size: 26px;
+    margin:6px 150px;
+    position: absolute;
+}
+.PS4{
+    font-size: 26px;
+    margin:8px 0px;
+    position: absolute;
+}
+.PS3{
+    font-size: 26px;
+    margin: -8px 240px;
+    position: absolute;
+    
+}
+.titlee{ 
+    font-size: 40px;
+    margin: 20px 30px;
+    color:#d93025;
+}
+.lista{
+    max-width: 2000px;
+    min-width: 200px;
+    width: 96%;
+    margin: 40px 2% 0 45px;
+}
+.CS1{
+    width: 100%;
+    
+}
+.cs2{
+  float: left;
+  width: 16%;
+  font-size: 20px;
+  margin-top: 6px;
+  z-index: 1;
+  min-width: 167px;
+  min-height: 42px;
+  font-weight: 500;
+  color: #333;
+
+}
+.cs3{
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    z-index: 2;
+    
+}
+
+.cs5::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+.cs4{
+    float: right;
+    width: 25%;
+    min-width: 160px;
+    margin: 0 0 8px 1%;
+    color: #555;
+    font-size: 16px;
+    padding-left: 8px;
+    z-index: 3;
+    text-align: left;
+}
+
+#sc1{
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    font-size: 20px;
+    height: 40px;
+    padding: 1px 8px;
+    width: 100%;
+
+}
+#sc2{
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    font-size: 20px;
+    height: auto;
+    padding: 1px 8px;
+    width: 350px;
+    color:rgb(255, 255, 255);
+
+    background-color: #4487f6;
+    
+
+}
+.cs6{
+    color: #666;
+    font-family: monospace;
+    font-size: 14px;
+    white-space: pre;
+}
